@@ -1,6 +1,6 @@
 cask "cleanori" do
-  version "0.1.0"
-  sha256 "c0a649ab2a22b1602556560b4d60a1ebdb41f28ce17cea9fe83f072a3f3ecd47"
+  version "1.0.0"
+  sha256 "65d424fc557a02da33525084082c16d403a065615556c83ee979d4a4f756558d"
 
   url "https://github.com/ahmadanshori/cleanori/releases/download/v#{version}/Cleanori-#{version}.zip"
   name "Cleanori"
