@@ -7,7 +7,7 @@ cask "cleanori" do
   desc "Developer-focused disk cleaner: caches, builds, large files and a disk map"
   homepage "https://github.com/ahmadanshori/cleanori"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Cleanori.app"
 
